@@ -1,1 +1,1 @@
-print(result)
+print_exception_hierarchy(Exception)
